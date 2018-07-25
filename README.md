@@ -7,10 +7,4 @@ DATA PIPELINE, PLEASE VISIT:
 https://www.progress.com/cloud-and-hybrid-data-integration
   
 Hybrid Data Pipeline External Authentication Example
-  
-Developer: Julien Mansier
-Date: 7/25/2018
-
-Note from the developer: I am no programming expert, so 
-please forgive any programming mistakes. 
 
